@@ -9,3 +9,10 @@ rustc asd.rs --extern /home/path/lib
 
 # Install cargo audit
 cargo install cargo-audit
+
+# Clippy warnings check
+rustup update
+rustup component add clippy
+cargo clippy
+# cargo clippy --fix
+
