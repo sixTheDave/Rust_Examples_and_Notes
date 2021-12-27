@@ -1,0 +1,9 @@
+/home/six/c/Rust_Examples_and_Notes/smart_contract_code/target/ink/release/deps/libink_storage_derive-a734426931151fc9.so: /home/six/.cargo/registry/src/github.com-1ecc6299db9ec823/ink_storage_derive-3.0.0-rc7/src/lib.rs /home/six/.cargo/registry/src/github.com-1ecc6299db9ec823/ink_storage_derive-3.0.0-rc7/src/packed_layout.rs /home/six/.cargo/registry/src/github.com-1ecc6299db9ec823/ink_storage_derive-3.0.0-rc7/src/spread_allocate.rs /home/six/.cargo/registry/src/github.com-1ecc6299db9ec823/ink_storage_derive-3.0.0-rc7/src/spread_layout.rs /home/six/.cargo/registry/src/github.com-1ecc6299db9ec823/ink_storage_derive-3.0.0-rc7/src/storage_layout.rs
+
+/home/six/c/Rust_Examples_and_Notes/smart_contract_code/target/ink/release/deps/ink_storage_derive-a734426931151fc9.d: /home/six/.cargo/registry/src/github.com-1ecc6299db9ec823/ink_storage_derive-3.0.0-rc7/src/lib.rs /home/six/.cargo/registry/src/github.com-1ecc6299db9ec823/ink_storage_derive-3.0.0-rc7/src/packed_layout.rs /home/six/.cargo/registry/src/github.com-1ecc6299db9ec823/ink_storage_derive-3.0.0-rc7/src/spread_allocate.rs /home/six/.cargo/registry/src/github.com-1ecc6299db9ec823/ink_storage_derive-3.0.0-rc7/src/spread_layout.rs /home/six/.cargo/registry/src/github.com-1ecc6299db9ec823/ink_storage_derive-3.0.0-rc7/src/storage_layout.rs
+
+/home/six/.cargo/registry/src/github.com-1ecc6299db9ec823/ink_storage_derive-3.0.0-rc7/src/lib.rs:
+/home/six/.cargo/registry/src/github.com-1ecc6299db9ec823/ink_storage_derive-3.0.0-rc7/src/packed_layout.rs:
+/home/six/.cargo/registry/src/github.com-1ecc6299db9ec823/ink_storage_derive-3.0.0-rc7/src/spread_allocate.rs:
+/home/six/.cargo/registry/src/github.com-1ecc6299db9ec823/ink_storage_derive-3.0.0-rc7/src/spread_layout.rs:
+/home/six/.cargo/registry/src/github.com-1ecc6299db9ec823/ink_storage_derive-3.0.0-rc7/src/storage_layout.rs:
