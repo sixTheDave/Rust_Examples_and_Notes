@@ -1,2 +1,0 @@
-cargo:rustc-env=TYPENUM_BUILD_CONSTS=/home/six/c/Rust_Examples_and_Notes/smart_contract_code/target/ink/wasm32-unknown-unknown/release/build/typenum-d12f2b53501eb570/out/consts.rs
-cargo:rustc-env=TYPENUM_BUILD_OP=/home/six/c/Rust_Examples_and_Notes/smart_contract_code/target/ink/wasm32-unknown-unknown/release/build/typenum-d12f2b53501eb570/out/op.rs

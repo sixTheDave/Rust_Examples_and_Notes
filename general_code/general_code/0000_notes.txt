@@ -1,0 +1,18 @@
+
+# Building for example a lib such as "rust-syslog" - This needs exec privilege on the source partition.
+cargo build
+
+# Add external !built! crate
+rustc -L /home/extern/path asd.rs
+
+rustc asd.rs --extern /home/path/lib
+
+# Install cargo audit
+cargo install cargo-audit
+
+# Clippy warnings check
+rustup update
+rustup component add clippy
+cargo clippy
+# cargo clippy --fix
+
